@@ -42,3 +42,25 @@ comment: "I've once made a patch for it and I understand the basic workings of t
 ptL1QKJmjlY668WzyQueiizy1_hh6oyNp1T54qvue9n4fW52dwA7telt6BoeQVqU80klstNfKc7mrEoVblvaCA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-24T17:23:43.283253600+09:00"
+from:
+  id-type: crev
+  id: fkkJ3Z6xSDEZwFlyKgIDxYS2x6mS7b2cxbWBeEWgfXs
+  url: "https://github.com/qnighy/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: copyless
+  version: 0.1.4
+  revision: db04f7d7e81f1f6280b85155bda02145be52f69e
+  digest: nghizX11e8MXmWVsx6qV29_3HEosrxnock-o9rbhIPE
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: A small bunch of unsafe operations that imitates the (now non-existent) placement syntax. Simple enough to verify its whole behavior.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+eN6Cmbx2fwFVmWik044mpyepHaJCQB0KONzzKPocZu03RlU25FZfhVXhkRh1S8j3Rj-F50hix6mA7cME-UJLAg
+-----END CREV PACKAGE REVIEW-----
+
