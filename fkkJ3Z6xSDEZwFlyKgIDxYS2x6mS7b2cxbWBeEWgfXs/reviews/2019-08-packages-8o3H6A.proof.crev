@@ -20,3 +20,25 @@ comment: "I've once made a patch for it and I understand the basic workings of t
 vgNkaRwnJlVjmwc_RTyGUJzxQJm9l7bqD-gk4cBNJ561qO5Ps0cEXfdvZKpMxOV60KeEqB1jLQgGjvO1EK0PBQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-24T17:12:04.594295100+09:00"
+from:
+  id-type: crev
+  id: fkkJ3Z6xSDEZwFlyKgIDxYS2x6mS7b2cxbWBeEWgfXs
+  url: "https://github.com/qnighy/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: signal-hook
+  version: 0.1.10
+  revision: 3ee4b12963b2e1fb95de291d126aa3d2e70b0c72
+  digest: 7q3kjkPW0RfaYHpAMA-Ugc_faj2cgFBJ4JWhrEaX5PU
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: "I've once made a patch for it and I understand the basic workings of the library. It's written carefully with understanding of how signal works."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+ptL1QKJmjlY668WzyQueiizy1_hh6oyNp1T54qvue9n4fW52dwA7telt6BoeQVqU80klstNfKc7mrEoVblvaCA
+-----END CREV PACKAGE REVIEW-----
+
