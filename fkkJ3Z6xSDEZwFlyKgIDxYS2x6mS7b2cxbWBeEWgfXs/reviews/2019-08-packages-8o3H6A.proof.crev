@@ -64,3 +64,24 @@ comment: A small bunch of unsafe operations that imitates the (now non-existent)
 eN6Cmbx2fwFVmWik044mpyepHaJCQB0KONzzKPocZu03RlU25FZfhVXhkRh1S8j3Rj-F50hix6mA7cME-UJLAg
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-24T22:08:00.241443200+09:00"
+from:
+  id-type: crev
+  id: fkkJ3Z6xSDEZwFlyKgIDxYS2x6mS7b2cxbWBeEWgfXs
+  url: "https://github.com/qnighy/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: tokio-retry
+  version: 0.2.0
+  digest: nPPHHAR-31v_XK1Vg1iMSckEv4_1FW7-Y8zS4dLoEFg
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: No unsafe code. Does things it claims. We could perhaps have some refactorings but it already does its job pretty well.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+kzKOzoVePWNBc2iODrpNUsCXBnIrvppA7NgYg68O_Lx5Kp_XMzp23AGSSnRPiVDU8ZmZv_U-YwkxLFVedIgsCQ
+-----END CREV PACKAGE REVIEW-----
+
