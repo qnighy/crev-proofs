@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-24T16:00:14.091386800+09:00"
+from:
+  id-type: crev
+  id: fkkJ3Z6xSDEZwFlyKgIDxYS2x6mS7b2cxbWBeEWgfXs
+  url: "https://github.com/qnighy/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: signal-hook-registry
+  version: 1.0.1
+  revision: 315778cec4d6d5bc424c969dd82f95b03a819289
+  digest: mv-dbn9mFh7ny62aq7qmrN1yVROLQDj86SNh57DfVAQ
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: "I've once made a patch for it and I understand the basic workings of the library. It's written carefully with understanding of how signal works."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+vgNkaRwnJlVjmwc_RTyGUJzxQJm9l7bqD-gk4cBNJ561qO5Ps0cEXfdvZKpMxOV60KeEqB1jLQgGjvO1EK0PBQ
+-----END CREV PACKAGE REVIEW-----
+
