@@ -85,3 +85,24 @@ comment: No unsafe code. Does things it claims. We could perhaps have some refac
 kzKOzoVePWNBc2iODrpNUsCXBnIrvppA7NgYg68O_Lx5Kp_XMzp23AGSSnRPiVDU8ZmZv_U-YwkxLFVedIgsCQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-25T12:01:46.430180500+09:00"
+from:
+  id-type: crev
+  id: fkkJ3Z6xSDEZwFlyKgIDxYS2x6mS7b2cxbWBeEWgfXs
+  url: "https://github.com/qnighy/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: actix-web-httpauth
+  version: 0.3.2
+  digest: dh-zx-U5hlkjJsbLV7mo7NV01vFdRJU361hAzZ5VnBM
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: "Not thoroughly confirmed the conformance to the HTTP spec, but basically the crate does its job."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+rrf39fs2-xsAibttyUl-DL9s08JrSOsrmdv6iO5rCu01thmYraNykzyyJJ-IaolZ7Ng-zjHIWAevC_JL4_9NCw
+-----END CREV PACKAGE REVIEW-----
+
